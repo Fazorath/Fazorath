@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Fazorath 👋
-
-I’m a programmer focused on building clean, reliable software.
-
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fazorath&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazorath&layout=compact)
@@ -32,7 +28,7 @@ I’m a programmer focused on building clean, reliable software.
 
 <!-- Optional extras -->
 <!-- Activity Graph -->
-<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fazorath) -->
+ ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fazorath) 
 
 <!-- Profile views -->
-<!-- ![](https://komarev.com/ghpvc/?username=Fazorath) -->
+ ![](https://komarev.com/ghpvc/?username=Fazorath) 

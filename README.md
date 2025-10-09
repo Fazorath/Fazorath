@@ -1,6 +1,6 @@
 # Hey, I'm Yoenis 👋
 
-**CS student @ Santa Fe → aiming UF | iOS + Data**  
+**CS student @ FIU | ML + Data + Automation**  
 I build small, useful tools in **Swift** and **Python**—from an iOS inventory tracker to data-mining notebooks and Mac automations.
 
 ### What I'm building

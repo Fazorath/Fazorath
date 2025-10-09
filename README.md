@@ -23,7 +23,6 @@ I build small, useful tools in **Swift** and **Python**—from an iOS inventory 
 ---
 
 <details>
-<summary>Stats (lightweight)</summary>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fazorath&show_icons=true&hide=issues&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazorath&layout=compact&hide=html,css)

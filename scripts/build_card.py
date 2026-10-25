@@ -12,9 +12,10 @@ from xml.sax.saxutils import escape
 USER = "Fazorath"
 ROOT = Path(__file__).resolve().parent.parent
 
+# The card has no background or border, so it sits directly on GitHub's README panel.
 THEMES = {
-    "light": {"bg": "#f6f8fa", "border": "#d1d9e0", "text": "#1f2328", "key": "#953800", "val": "#0a3069", "dim": "#8c959f"},
-    "dark": {"bg": "#161b22", "border": "#30363d", "text": "#e6edf3", "key": "#ffa657", "val": "#a5d6ff", "dim": "#6e7681"},
+    "light": {"text": "#1f2328", "key": "#953800", "val": "#0a3069", "dim": "#8c959f"},
+    "dark": {"text": "#e6edf3", "key": "#ffa657", "val": "#a5d6ff", "dim": "#6e7681"},
 }
 
 KEY_WIDTH = 13  # key + dot leader, so every value starts in the same column
@@ -113,7 +114,6 @@ text {{ white-space: pre; }}
 .val {{ fill: {c["val"]}; }}
 .dim {{ fill: {c["dim"]}; }}
 </style>
-<rect x="0.5" y="0.5" width="889" height="{height - 1}" rx="6" fill="{c["bg"]}" stroke="{c["border"]}"/>
 {rack}
 {info}
 </svg>

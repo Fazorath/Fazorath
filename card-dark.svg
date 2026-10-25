@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="890" height="424" viewBox="0 0 890 424" xml:space="preserve" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15">
+<style>
+text { white-space: pre; }
+.text { fill: #e6edf3; }
+.key { fill: #ffa657; }
+.val { fill: #a5d6ff; }
+.dim { fill: #6e7681; }
+</style>
+<rect x="0.5" y="0.5" width="889" height="423" rx="6" fill="#161b22" stroke="#30363d"/>
+<rect x="40" y="40" width="220" height="176" rx="4" fill="none" stroke="#6e7681" stroke-width="1.5"/>
+<rect x="56" y="59.0" width="6" height="6" fill="#e6edf3"/>
+<rect x="66" y="59.0" width="6" height="6" fill="#e6edf3"/>
+<rect x="76" y="59.0" width="6" height="6" fill="#e6edf3"/>
+<line x1="110" y1="60.0" x2="200" y2="60.0" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="110" y1="64.0" x2="200" y2="64.0" stroke="#e6edf3" stroke-width="1.5"/>
+<circle cx="236" cy="62.0" r="5" fill="#a5d6ff" stroke="#a5d6ff" stroke-width="1.5"/>
+<line x1="40" y1="84" x2="260" y2="84" stroke="#6e7681" stroke-width="1.5"/>
+<rect x="56" y="103.0" width="6" height="6" fill="#e6edf3"/>
+<rect x="66" y="103.0" width="6" height="6" fill="#e6edf3"/>
+<rect x="76" y="103.0" width="6" height="6" fill="#e6edf3"/>
+<line x1="110" y1="104.0" x2="200" y2="104.0" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="110" y1="108.0" x2="200" y2="108.0" stroke="#e6edf3" stroke-width="1.5"/>
+<circle cx="236" cy="106.0" r="5" fill="#a5d6ff" stroke="#a5d6ff" stroke-width="1.5"/>
+<line x1="40" y1="128" x2="260" y2="128" stroke="#6e7681" stroke-width="1.5"/>
+<rect x="56" y="147.0" width="6" height="6" fill="#e6edf3"/>
+<rect x="66" y="147.0" width="6" height="6" fill="#e6edf3"/>
+<rect x="76" y="147.0" width="6" height="6" fill="#e6edf3"/>
+<line x1="110" y1="148.0" x2="200" y2="148.0" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="110" y1="152.0" x2="200" y2="152.0" stroke="#e6edf3" stroke-width="1.5"/>
+<circle cx="236" cy="150.0" r="5" fill="#a5d6ff" stroke="#a5d6ff" stroke-width="1.5"/>
+<line x1="40" y1="172" x2="260" y2="172" stroke="#6e7681" stroke-width="1.5"/>
+<rect x="56" y="191.0" width="6" height="6" fill="#e6edf3"/>
+<rect x="66" y="191.0" width="6" height="6" fill="#e6edf3"/>
+<rect x="76" y="191.0" width="6" height="6" fill="#e6edf3"/>
+<line x1="110" y1="192.0" x2="200" y2="192.0" stroke="#e6edf3" stroke-width="1.5"/>
+<line x1="110" y1="196.0" x2="200" y2="196.0" stroke="#e6edf3" stroke-width="1.5"/>
+<circle cx="236" cy="194.0" r="5" fill="none" stroke="#a5d6ff" stroke-width="1.5"/>
+<text x="150.0" y="252" text-anchor="middle" class="dim">arcanum · 15+ services</text>
+<text x="320" y="48"><tspan class="val">yoenis</tspan><tspan class="text">@</tspan><tspan class="val">arcanum</tspan><tspan class="dim"> -------------------------------------------</tspan></text>
+<text x="320" y="70"><tspan class="key">Role</tspan><tspan class="dim"> ....... </tspan><tspan class="val">CS student @ FIU</tspan></text>
+<text x="320" y="92"><tspan class="key">Builds</tspan><tspan class="dim"> ..... </tspan><tspan class="val">full-stack apps + the servers they run on</tspan></text>
+<text x="320" y="114"><tspan class="key">Host</tspan><tspan class="dim"> ....... </tspan><tspan class="val">ThinkPad · Docker Compose · 15+ services</tspan></text>
+<text x="320" y="136"><tspan class="key">Network</tspan><tspan class="dim"> .... </tspan><tspan class="val">Tailscale + Cloudflare Tunnel, behind CGNAT</tspan></text>
+<text x="320" y="158"><tspan class="key">Languages</tspan><tspan class="dim"> .. </tspan><tspan class="val">Python, Swift, TypeScript, JavaScript</tspan></text>
+<text x="320" y="180"><tspan class="key">In.use</tspan><tspan class="dim"> ..... </tspan><tspan class="val">La Tienda · 14 staff, every day</tspan></text>
+<text x="320" y="202"><tspan class="key">Now</tspan><tspan class="dim"> ........ </tspan><tspan class="val">Atlas, Overnight</tspan></text>
+<text x="320" y="224"><tspan class="key">Last.push</tspan><tspan class="dim"> .. </tspan><tspan class="val">AbyssTracker (2026-10-25)</tspan></text>
+<text x="320" y="268"><tspan class="text">- Contact</tspan><tspan class="dim"> ------------------------------------------------</tspan></text>
+<text x="320" y="290"><tspan class="key">Email</tspan><tspan class="dim"> ...... </tspan><tspan class="val">hernandezyoenis@gmail.com</tspan></text>
+<text x="320" y="312"><tspan class="key">LinkedIn</tspan><tspan class="dim"> ... </tspan><tspan class="val">yoenis-hernandez</tspan></text>
+<text x="320" y="356"><tspan class="text">- GitHub</tspan><tspan class="dim"> -------------------------------------------------</tspan></text>
+<text x="320" y="378"><tspan class="key">Repos</tspan><tspan class="dim"> .. </tspan><tspan class="val">9</tspan><tspan class="dim">  |  </tspan><tspan class="key">Stars</tspan><tspan class="dim"> .. </tspan><tspan class="val">37</tspan><tspan class="dim">  |  </tspan><tspan class="key">Followers</tspan><tspan class="dim"> .. </tspan><tspan class="val">12</tspan></text>
+</svg>

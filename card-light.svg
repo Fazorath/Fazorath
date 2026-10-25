@@ -6,7 +6,6 @@ text { white-space: pre; }
 .val { fill: #0a3069; }
 .dim { fill: #8c959f; }
 </style>
-<rect x="0.5" y="0.5" width="889" height="423" rx="6" fill="#f6f8fa" stroke="#d1d9e0"/>
 <rect x="40" y="40" width="220" height="176" rx="4" fill="none" stroke="#8c959f" stroke-width="1.5"/>
 <rect x="56" y="59.0" width="6" height="6" fill="#1f2328"/>
 <rect x="66" y="59.0" width="6" height="6" fill="#1f2328"/>
